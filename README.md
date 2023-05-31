@@ -1,10 +1,10 @@
 <B>ABC Company Employee Data Analysis</B>
 
-This project analyses data of employees in ABC company. It consists of 458 rows and 9 columns.
+This project analyses data of employees in ABC company. Dataset consists of 458 rows and 9 columns.
     
 <B>Preprocessing Dataset</B>
  
- The column 'Height' has incorrect data, so change the data of 'Height' column with any random numbers between 150 and 180.
+ The column 'Height' in dataset has incorrect data, so replace the data of 'Height' column with any random numbers between 150 and 180.
   
 <B>Analysis:</B>
 
